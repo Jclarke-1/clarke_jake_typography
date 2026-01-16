@@ -31,5 +31,21 @@ h2 {
     margin-top: 20px;
     margin-bottom: 20px;
 }
+ #qu3nch-vitamins img {
+    float: left;
+    margin-right: 20px;
+ }
+ 
+ #qu3nch-vitamins p {
+    float: right;
+ }
 
+ #qu3nch-eletroclytes img {
+    float: right;
+    height: 20vh;
+    margin-top: 30px;
+ }
 
+ #qu3nch-eletroclytes p {
+    float: left;
+ }
